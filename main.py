@@ -58,3 +58,5 @@ submission = pandas.DataFrame({
     })
 
 submission.to_csv("kaggle.csv", index=False)
+
+# Let's improve this score
